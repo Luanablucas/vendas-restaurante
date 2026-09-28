@@ -1,0 +1,15 @@
+# Ambiente virtual
+.venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Cópias automáticas do Jupyter
+.ipynb_checkpoints/
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos com variáveis de ambiente
+.env
